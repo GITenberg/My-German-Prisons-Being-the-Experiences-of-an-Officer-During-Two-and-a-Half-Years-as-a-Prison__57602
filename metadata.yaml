@@ -1,11 +1,16 @@
 _repo: My-German-Prisons-Being-the-Experiences-of-an-Officer-During-Two-and-a-Half-Years-as-a-Prison__57602
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57602-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Gilliland, H. G.
     gutenberg_agent_id: '49496'
     url: http://www.gutenberg.org/2009/agents/49496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57602#My-German-Prisons-Being-the-Experiences-of-an-Officer-During-Two-and-a-Half-Years-as-a-Prison_
 gutenberg_issued: '2018-07-30'
 gutenberg_type: Text
 identifiers:
